@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "versionFirst": "3.7.3",
     "versionPublish": "4.4.1",
     "name": "My Site nl-clone",
@@ -142,7 +142,7 @@
             "fontColor": "#95b9c9",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculptures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Graphics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Fear</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Sketches &amp; drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Independent pictures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Pictures as inspiration</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Schetsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Grafiek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Angst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Schetsen en tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Onafhankelijke foto's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Foto's als inspiratiebron</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://emmab17.github.io/en/\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -253,8 +253,8 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>",
-          "text1": "<strong>Address</strong><br>Spiegelhofstraat 32<br>9000 Ghent<br>Belgium<br><br><br>\n<strong>Contacts</strong><br>\nEmail: emmaboeyaert@hotmail.com<br>\nPhone: +32471 13 00 99<br><br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteer mij</a>",
+          "text1": "<strong>Adres</strong><br>Spiegelhofstraat 32<br>9000 Gent<br>België<br><br><br>\n<strong>Contact</strong><br>\nEmail: emmaboeyaert@hotmail.com<br>\nPhone: +32471 13 00 99<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Instagram: emmappemma</li><li>Facebook: Emma Boeyaert</li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -431,8 +431,8 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GIP</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Sculptures</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page16.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Drawings</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Sculpturen</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page16.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Tekeningen</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -544,7 +544,7 @@
             "fontColor": "#95b9c9",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculptures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Graphics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Fear</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Sketches &amp; drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Independent pictures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Pictures as inspiration</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Schetsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Grafiek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Angst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Schetsen en tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Onafhankelijke foto's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Foto's als inspiratiebron</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://emmab17.github.io/en/\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -622,7 +622,7 @@
             "paddingBottom": 1,
             "bgColor": "#202020"
           },
-          "text": "At the age of 17, Emma Boeyaert was in her last year of secundary school, studying &nbsp;Visual Arts. In this year, the perpose for students is to graduate with a GIP (Integrated Test). The theme of this final project was India. Apart from this project, students made drawings and paintings to observation, and sculptures to fantasy.",
+          "text": "Op 17-jarige leeftijd zat Emma Boeyaert in haar laatste jaar middelbare school, in de richting Beeldende Vorming. In dit jaar was de bedoeling dat studenten afstudeerden met een GIP (geïntegreerde proef). Het opgedragen thema werd 'India'. Los van dit project maakten de studenten tekeningen en schilderijen naar waarneming en naar eigen fantasie.",
           "_tags": [
             "Theme"
           ],
@@ -737,8 +737,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Sketches</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Graphics</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Schetsen</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Grafiek</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -847,7 +847,7 @@
             "fontColor": "#95b9c9",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculptures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Graphics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Fear</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Sketches &amp; drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Independent pictures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Pictures as inspiration</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Schetsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Grafiek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Angst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Schetsen en tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Onafhankelijke foto's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Foto's als inspiratiebron</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://emmab17.github.io/en/\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -925,7 +925,7 @@
             "paddingBottom": 1,
             "bgColor": "#202020"
           },
-          "text": "<p>In september 2015, Emma Boeyaert started her education at Luca School of Arts, following Drawing &amp; Graphics/Illustration under supervision of Isabelle Vandenabeele, Steve Michiels and Peter Morrens. Assignments were given as open to both directions as possible, with the perpose to choose what the students wanted to follow after that first year. The content of drawings was finally free to choose, and the focus was no longer on techniques. All attention went to strong images now.&nbsp;</p>",
+          "text": "<p>In september 2015 startte Emma Boeyaert haar opleiding op Sint-Lucas Gent, in de studierichting Tekenkunst en Grafiek - Illustratie onder begeleiding van Isabelle Vandenabeele, Steve Michiels en Peter Morrens. Opdrachten werden zo open mogelijk voor beide richtingen gegeven, want in dit eerste jaar gingen deze nog samen. Op het einde van dit jaar moesten de studenten kiezen welke studierichting ze in het tweede jaar zouden volgen. De inhoud van tekeningen werd vrij te kiezen, en de focus lag niet langer op techniek. Alle aandacht ging vanaf nu naar 'sterke beelden'.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1037,8 +1037,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page10.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">'Fear'</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page11.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Drawings</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page10.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">'Angst'</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page11.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Tekeningen</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1085,7 +1085,7 @@
             "fontColor": "#95b9c9",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculptures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Graphics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Fear</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Sketches &amp; drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Independent pictures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Pictures as inspiration</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Schetsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Grafiek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Angst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Schetsen en tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Onafhankelijke foto's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Foto's als inspiratiebron</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://emmab17.github.io/en/\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1225,7 +1225,7 @@
             "paddingBottom": 1,
             "bgColor": "#202020"
           },
-          "text": "<p>Illustration was what Emma chose to do in the second academic year. Eager to tell stories, and eager to draw, this seemed to be the best choice. Many assignments had to lead Emma and the other students to discovering how they individually wanted to tell people something, and what they wanted to tell. For Emma, this year wasn't wasted at all, but it was not the right place to find these things out. Not succeeding, she stept over to Drawing &amp; Graphics, in the second year again in 2017-2018.&nbsp;</p>",
+          "text": "<p>Illustratie was wat Emma koos om in het tweede academiejaar te volgen. Verlangend om verhalen te vertellen en te tekenen leek dit de beste keuze. Via de vele opdrachten moesten Emma en haar medestudenten ontdekken hoe ze individueel iets wilden vertellen, en wat ze mensen willen vertellen. Voor Emma was dit jaar geen verspild jaar, maar het was niet de juiste studierichting om deze dingen te gaan ontdekken. Toen ze aan het einde van het jaar niet slaagde, stapte ze over naar Tekenkunst en Grafiek, opnieuw in het tweede jaar, in 2017-2018&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -1337,10 +1337,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page12.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Paintings</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page13.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Sketches &amp; Drawings</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Independent Pictures</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page15.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Pictures as inspiration</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page12.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Schilderijen</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page13.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Schetsen en Tekeningen</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Onafhankelijke foto's</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page15.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Foto's als inspiratiebron</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -1385,7 +1385,7 @@
             "fontColor": "#95b9c9",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculptures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Graphics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Fear</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Sketches &amp; drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Independent pictures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Pictures as inspiration</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Schetsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Grafiek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Angst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Schetsen en tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Onafhankelijke foto's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Foto's als inspiratiebron</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://emmab17.github.io/en/\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1525,7 +1525,7 @@
             "paddingBottom": 1,
             "bgColor": "#202020"
           },
-          "text": "<p>In the third year at the school, now in Drawing &amp; Graphics, Emma Boeyaert had a difficult start. For four months, she barely drew. Even though Illustration was not her ideal field of study, she was used to work on assignments. Drawing &amp; Graphics is a different sort of education. Professors don't &nbsp;come up with any assignment, so Emma had to make up for herself what she wanted to do. The intermediate jury in february was approaching, so in a shock of panic, Emma started painting with oilpaint quickly. Suddenly normal images surprised her. Taking pictures of everything that awakened a certain interest, she grew a small archive. This became the first database from where she built images to paint to. It was important to play, and to be amused while working. Also this stage slowly has to pass and at this moment, the perpose of an image asks for attention as well. The sketches Emma makes are mostly just tests for paintings, and in the paintings she tries to lay a subtile awkwardness or mystery.&nbsp;</p>",
+          "text": "<p>In het derde academiejaar, nu in Tekenkunst en Grafiek, had Emma een moeilijke start. Voor vier maanden werkte ze amper op atelier. Hoewel Illustratie niet haar ideale studierichting was geweest, was ze wel gewend aan het werken naar opdrachten. Tekenkunst en Grafiek is een andere soort opleiding. De docenten geven geen opdrachten, dus moest Emma vanaf dat moment zelf zoeken wat ze wilde creëeren. Het atelier is vrij. De tussentijdste jury in februari kwam dichterbij, dus in een schok van paniek begon Emma te schilderen met olieverf. Plotseling verrasten normale beelden haar. Door foto's te nemen van alles wat een bepaalde interesse opwekte, groeide een klein archief. Dit werd de eerste beeldbank van waaruit ze beelden opbouwde om naar te schilderen. Het was belangrijk om te spelen, en geamuseerd te zijn tijdens het werken. Ook deze fase moest langzaam aan plaats maken voor een bewustere ontwikkeling van beelden. De schetsen die Emma maakte zijn meestal tests voor schilderijen, en in de schilderijen probeert ze een subtiele vervreemding of mysterieuze toon te leggen.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -1554,7 +1554,7 @@
             "paddingBottom": 1,
             "bgColor": "#060606"
           },
-          "text": "<p>'India' was a big concept to work with, so Emma Boeyaert chose to dig into the inequality in the Indian education. Clear is that girls have less rights than boys to go to school, and that children on the countryside have less rights than children who live in the cities. Intrigued by these facts, Emma 'investigated' statistics and tried to convert them into visual works. One artwork had to be 3D, one 2D.</p>",
+          "text": "<p>'India' was een groot concept om mee aan de slag te gaan, dus verdiepte Emma zich op een specifieker onderwerp: Ongelijkheid in het Indiase onderwijs. Duidelijk werd dat meisjes op het platteland minder kans op onderwijs hadden dan jongens op het platteland, en zij samen minder kansen kregen dan meisjes en jongens in de stad. Geïntigreerd door deze feiten onderzocht Emma statistieken en proberde ze deze in beeldende werken om te zetten.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -1602,7 +1602,7 @@
             "fontColor": "#95b9c9",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculptures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Graphics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Fear</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Sketches &amp; drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Independent pictures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Pictures as inspiration</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Schetsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Grafiek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Angst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Schetsen en tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Onafhankelijke foto's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Foto's als inspiratiebron</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://emmab17.github.io/en/\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1691,7 +1691,7 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "'Inequality in the Indian Education'. 3 dimentional curve. Clay stands for climbing out of mud, paper stands for schoolbooks and an education. Left: Boys in the cities, middle-left: girls in the cities. Middle-right: boys on the countryside, right: girls on the countryside.",
+          "text": "'Ongelijkheid in het onderwijs': driedimentionale curve. De klei staat voor het klimmen vanuit de modder, papier staat voor schoolboeken en onderwijs. Links: jongens in de stad. Midden-links: meisjes in de stad. Midden-rechts: jongens op het platteland. Rechts: meisjes op het platteland. De plexiplaten staan voor het kastesysteem dat zogezegd werd afgeschaft maar nog steeds onzichtbaar aanwezig is, en verschillende groepen mensen nog steeds beperkt.",
           "_tags": [
             "Theme"
           ],
@@ -1700,7 +1700,7 @@
           "_styles": {
             "DIV": {
               "text-align": "left",
-              "color": "#0e0e0e"
+              "color": "#cccccc"
             }
           }
         },
@@ -1721,7 +1721,7 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Sketches preparing for a work about illiteracy in India, Test in ecoustic-technique: melted beewax with pigment.&nbsp;",
+          "text": "Voorbereidende schetsen voor een werk over analfabetisme. Staaltje van encoustic: gesmolten bijenwas met pigment.&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -1729,7 +1729,7 @@
           "_anchor": "image1-2t",
           "_styles": {
             "DIV": {
-              "color": "#000000"
+              "color": "#cccccc"
             }
           }
         },
@@ -1842,7 +1842,7 @@
     "page7.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "2014-2015 Sculptures",
+        "title": "2014-2015 Sculpturen",
         "order": 11
       },
       "components": [
@@ -1882,7 +1882,7 @@
             "fontColor": "#95b9c9",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculptures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Graphics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Fear</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Sketches &amp; drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Independent pictures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Pictures as inspiration</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Schetsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Grafiek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Angst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Schetsen en tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Onafhankelijke foto's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Foto's als inspiratiebron</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://emmab17.github.io/en/\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1933,7 +1933,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#95b9c9!important"
             }
           },
           "logo": {
@@ -1960,7 +1960,7 @@
             "paddingBottom": 1,
             "bgColor": "#060606"
           },
-          "text": "<blockquote>It was recommended in secundary school to sculpt in different matters, so that students are introduced to some sorts. The deer is built in clay, with an overlay of shoe polish. The wooden sculpture &nbsp;is inspired by a wing.&nbsp;</blockquote>",
+          "text": "<blockquote>Het werd aangeraden in de middelbare school om te sculpteren in verschillende materies, zodat de studenten worden geïntroduceerd in meerdere opties. Het hert werd opgebouwd klei, afgewerkt met een laag schoensmeer. De houten sculptuur is geïnspireerd op een vleugel.</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2025,7 +2025,7 @@
     "page8.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
-        "title": "2015-2016 Sketches ",
+        "title": "2015-2016 Schetsen",
         "order": 9
       },
       "components": [
@@ -2065,7 +2065,7 @@
             "fontColor": "#95b9c9",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculptures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Graphics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Fear</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Sketches &amp; drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Independent pictures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Pictures as inspiration</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Schetsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Grafiek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Angst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Schetsen en tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Onafhankelijke foto's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Foto's als inspiratiebron</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://emmab17.github.io/en/\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2143,7 +2143,7 @@
             "paddingBottom": 1,
             "bgColor": "#060606"
           },
-          "text": "<blockquote>In the first year at Luca School of Arts, the focus on technique immediately disappeared. In 'Illustration/ Drawing &amp; Graphics', the field of study Emma chose, the attention went to lots of sketching and observing.&nbsp;</blockquote>",
+          "text": "<blockquote>In het eerste jaar op Sint-Lucas verdween de focus op techniek meteen. In Tekenkunst en Grafiek - Illustratie, de studierichting de Emma volgde, lag vooral aandacht op veel schetsen en observeren.&nbsp;</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2371,7 +2371,7 @@
     "page9.html": {
       "settings": {
         "meta_descr": "Web Generator Description",
-        "title": "2015-2016 Graphics",
+        "title": "2015-2016 Grafiek",
         "order": 8
       },
       "components": [
@@ -2411,7 +2411,7 @@
             "fontColor": "#95b9c9",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculptures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Graphics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Fear</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Sketches &amp; drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Independent pictures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Pictures as inspiration</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Schetsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Grafiek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Angst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Schetsen en tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Onafhankelijke foto's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Foto's als inspiratiebron</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://emmab17.github.io/en/\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2423,13 +2423,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#7c9aa7"
+              "color": "#95b9c9"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#7c9aa7"
+              "background-color": "#95b9c9"
             },
             ".link, .dropdown-item": {
-              "color": "#7c9aa7",
+              "color": "#95b9c9",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-family": "'Slabo 27px', serif"
             },
@@ -2452,7 +2452,7 @@
               "background": "#1c1e23"
             },
             ".bg-color.transparent .link": {
-              "color": "#7c9aa7",
+              "color": "#95b9c9",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2462,7 +2462,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#95b9c9!important"
             }
           },
           "logo": {
@@ -2489,7 +2489,7 @@
             "paddingBottom": 1,
             "bgColor": "#060606"
           },
-          "text": "<blockquote>A part of the field of study contains manual printing techniques. In bigger assignments like 'Self Portrait' or 'Hands', Emma had workshops about etching, Chine collé, woodcut, etc.&nbsp;</blockquote>",
+          "text": "<blockquote>In Tekenkunst en Grafiek - Illustratie werd verwacht om manuele druktechnieken uit te voeren. In grotere opdrachten zoals 'Zelfportret' of 'Handen, handelingen' kreeg Emma workshops over etsen, Chine collé, houtsnede, etc.</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2602,7 +2602,7 @@
     "page10.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
-        "title": "2016-2017 Fear",
+        "title": "2016-2017 Angst",
         "order": 7
       },
       "components": [
@@ -2642,7 +2642,7 @@
             "fontColor": "#95b9c9",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculptures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Graphics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Fear</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Sketches &amp; drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Independent pictures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Pictures as inspiration</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Schetsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Grafiek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Angst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Schetsen en tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Onafhankelijke foto's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Foto's als inspiratiebron</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://emmab17.github.io/en/\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2654,13 +2654,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#7c9aa7"
+              "color": "#95b9c9"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#7c9aa7"
+              "background-color": "#95b9c9"
             },
             ".link, .dropdown-item": {
-              "color": "#7c9aa7",
+              "color": "#95b9c9",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-family": "'Slabo 27px', serif"
             },
@@ -2683,7 +2683,7 @@
               "background": "#1c1e23"
             },
             ".bg-color.transparent .link": {
-              "color": "#7c9aa7",
+              "color": "#95b9c9",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2693,7 +2693,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#95b9c9!important"
             }
           },
           "logo": {
@@ -2720,7 +2720,7 @@
             "paddingBottom": 1,
             "bgColor": "#060606"
           },
-          "text": "<blockquote>In the second year, Emma followed Illustration in Luca School of Arts, with Gerda Dendooven and Isabelle Vandenabeele. This year contained lots of assignments wherein stories had to become images, and images needed to tell a story. It was not clear until the end of that year that Emma wasn't in the right place in Illustration. In the last few weeks before the jury in june 2017, Gerda told her to let go of the assignments and to make whatever she felt like making. &nbsp;This is how the small series 'Fear' grew.&nbsp;</blockquote>",
+          "text": "<blockquote>In het tweede jaar volgde Emma Boeyaert Illustratie, begeleid door Gerda Dendooven en Isabelle Vandenabeele. In dit academiejaar werden heel wat opdrachten gegeven waarin verhalen beelden werden, en elk beeld een verhaal vertelde. Het was niet duidelijk tot op het einde van het jaar dat Emma niet op de juiste plaats was in Illustratie. In de laatste weken voor de jury in juni 2017 raadde Gerda haar aan om van de gegeven opdrachten af te stappen en te maken waar ze zin in had, om los te komen. Dit is hoe de kleine reeks 'Angst' is ontstaan.</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2842,205 +2842,13 @@
           "allItem": "All",
           "_name": "gallery3",
           "_anchor": "gallery3-3w"
-        },
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-dsc3965-1-1400x2069.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "One of the assignments was about fear, but letting go of its structure, Emma painted small anxious portraits and self-portraits. &nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-3o"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-dsc3975-1400x2134.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-3p"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-dsc3974-1400x2208.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-3q"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-dsc3980-1400x2187.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-3r"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-dsc3982-1400x2166.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-3s"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-dsc3978-1400x2095.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-3t"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-dsc3984-1400x2038.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-3u"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-dsc3966-1400x2118.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-3x"
         }
       ]
     },
     "page11.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
-        "title": "2016-2017 Drawings",
+        "title": "2016-2017 Tekeningen",
         "order": 6
       },
       "components": [
@@ -3080,7 +2888,7 @@
             "fontColor": "#95b9c9",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculptures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Graphics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Fear</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Sketches &amp; drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Independent pictures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Pictures as inspiration</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Schetsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Grafiek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Angst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Schetsen en tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Onafhankelijke foto's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Foto's als inspiratiebron</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://emmab17.github.io/en/\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3092,13 +2900,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#7c9aa7"
+              "color": "#95b9c9"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#7c9aa7"
+              "background-color": "#95b9c9"
             },
             ".link, .dropdown-item": {
-              "color": "#7c9aa7",
+              "color": "#95b9c9",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-family": "'Slabo 27px', serif"
             },
@@ -3121,7 +2929,7 @@
               "background": "#1c1e23"
             },
             ".bg-color.transparent .link": {
-              "color": "#7c9aa7",
+              "color": "#95b9c9",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3131,7 +2939,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#95b9c9!important"
             }
           },
           "logo": {
@@ -3158,7 +2966,7 @@
             "paddingBottom": 1,
             "bgColor": "#060606"
           },
-          "text": "<blockquote>Through this year, following the Illustration field, Emma didn't work a lot. Being stuck between assignments and doing what she wanted to do, only a few things arised.&nbsp;</blockquote>",
+          "text": "<blockquote>Doorheen dit jaar creëerde Emma weinig artistiek werk. Vastgelopen tussen opdrachten en doen wat ze zelf wilde, kwamen er maar een klein aantal werken tot stand.</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -3353,7 +3161,7 @@
     "page12.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "2017-2018 Paintings",
+        "title": "2017-2018 Schilderijen",
         "order": 5
       },
       "components": [
@@ -3393,7 +3201,7 @@
             "fontColor": "#95b9c9",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculptures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Graphics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Fear</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Sketches &amp; drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Independent pictures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Pictures as inspiration</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Schetsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Grafiek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Angst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Schetsen en tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Onafhankelijke foto's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Foto's als inspiratiebron</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://emmab17.github.io/en/\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3405,13 +3213,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#7c9aa7"
+              "color": "#95b9c9"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#7c9aa7"
+              "background-color": "#95b9c9"
             },
             ".link, .dropdown-item": {
-              "color": "#7c9aa7",
+              "color": "#95b9c9",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-family": "'Slabo 27px', serif"
             },
@@ -3434,7 +3242,7 @@
               "background": "#1c1e23"
             },
             ".bg-color.transparent .link": {
-              "color": "#7c9aa7",
+              "color": "#95b9c9",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3444,7 +3252,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#95b9c9!important"
             }
           },
           "logo": {
@@ -3471,7 +3279,7 @@
             "paddingBottom": 1,
             "bgColor": "#060606"
           },
-          "text": "<blockquote>Since January, Emma started painting with water mixtable oilpaint. First as tests, and after finding out how fluently this paint follows the moves of the brush, she didn't stop making small paintings. Still under supervise of professors, they recommended her to start painting on a taller format. That unfortunately didn't become her type of working. On the other side, Emma Boeyaert slowly started discovering how tiny choices through the painting proces could introduce an emotion or bizarre feeling while looking at the image. Though this proces only started, Emma continues working this way.&nbsp;</blockquote>",
+          "text": "<blockquote>Sinds januari 2018 schildert Emma Boeyaert met watervermengbare olieverf. Eerst als testjes en na het ontdekken hoe vlot deze verf penseelbewegingen volgt, is ze niet opgehouden met het maken van kleine schilderijen. Onder begeleiding van haar docenten werd haar aangeraden om op groter formaat te werken. Dat bleek helaas niet binnen haar werkwijze te passen. Anderzijds ontdekte Emma op die manier hoe kleine keuzes doorheen het schilderproces een opening vormden voor een bizarre emotie voor wie naar het beeld kijkt. Dit proces is pas begonnen, maar Emma gaat hier voorlopig mee door.&nbsp;</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -3742,7 +3550,7 @@
     "page13.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
-        "title": "2017-2018 Sketches & Drawings",
+        "title": "2017-2018 Schetsen en tekeningen",
         "order": 4
       },
       "components": [
@@ -3765,7 +3573,7 @@
             "fontColor": "#95b9c9",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculptures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Graphics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Fear</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Sketches &amp; drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Independent pictures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Pictures as inspiration</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Schetsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Grafiek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Angst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Schetsen en tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Onafhankelijke foto's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Foto's als inspiratiebron</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://emmab17.github.io/en/\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3777,13 +3585,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#7c9aa7"
+              "color": "#95b9c9"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#7c9aa7"
+              "background-color": "#95b9c9"
             },
             ".link, .dropdown-item": {
-              "color": "#7c9aa7",
+              "color": "#95b9c9",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-family": "'Slabo 27px', serif"
             },
@@ -3806,7 +3614,7 @@
               "background": "#1c1e23"
             },
             ".bg-color.transparent .link": {
-              "color": "#7c9aa7",
+              "color": "#95b9c9",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3816,7 +3624,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#95b9c9!important"
             }
           },
           "logo": {
@@ -3843,7 +3651,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<blockquote><p><br></p><p>The sketchbook in the third year looked different from the one of the year before. Sketches were sometimes less fragile, and became overwelming now and then. These opposites also tell something of the evolution from being stuck and shy, to daring and experimenting.&nbsp;</p></blockquote>",
+          "text": "<blockquote><p><br></p><p>Het schetsboek in het derde jaar ziet er compleet anders uit dan deze van het jaar ervoor. Schetsen worden soms minder fragiel, en eerder overweldigend. Deze tegenovergestelden vertellen ook over de evolutie van het vastzitten en beschaamd zijn naar durven en experimenteren.&nbsp;</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -3880,7 +3688,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PRE MADE BLOCKS",
-          "text": "Sketchbook drawings",
+          "text": "Tekeningen in schetsboek",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "_tags": [
             "Theme"
@@ -4129,7 +3937,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PRE MADE BLOCKS",
-          "text": "Drawings to model",
+          "text": "Tekeningen naar naaktmodel",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "_tags": [
             "Theme"
@@ -4431,7 +4239,7 @@
     "page14.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
-        "title": "2017-2018 Independent Pictures",
+        "title": "2017-2018 Onafhankelijke foto's",
         "order": 3
       },
       "components": [
@@ -4441,7 +4249,7 @@
             "paddingBottom": 1,
             "bgColor": "#060606"
           },
-          "text": "<blockquote>It is important to see pictures you take as finished works on themselves. Sometimes, a painting of a good picture is not automatically a better version of the picture. These pictures better stay independent, according to Emma.&nbsp;</blockquote>",
+          "text": "<blockquote>Het is belangrijk om foto's die je neemt ook te zien als werk op zichzelf. Een schilderij van een foto is niet automatisch een betere versie van die foto. Deze foto's blijven beter op zichzelf staan volgens Emma.</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -4489,7 +4297,7 @@
             "fontColor": "#95b9c9",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculptures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Graphics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Fear</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Sketches &amp; drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Independent pictures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Pictures as inspiration</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Schetsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Grafiek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Angst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Schetsen en tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Onafhankelijke foto's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Foto's als inspiratiebron</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://emmab17.github.io/en/\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4501,13 +4309,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#7c9aa7"
+              "color": "#95b9c9"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#7c9aa7"
+              "background-color": "#95b9c9"
             },
             ".link, .dropdown-item": {
-              "color": "#7c9aa7",
+              "color": "#95b9c9",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-family": "'Slabo 27px', serif"
             },
@@ -4530,7 +4338,7 @@
               "background": "#1c1e23"
             },
             ".bg-color.transparent .link": {
-              "color": "#7c9aa7",
+              "color": "#95b9c9",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -4540,7 +4348,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#95b9c9!important"
             }
           },
           "logo": {
@@ -4638,7 +4446,7 @@
     "page15.html": {
       "settings": {
         "meta_descr": "Web Creator Description",
-        "title": "2017-2018 Pictures as inspiration",
+        "title": "2017-2018 Foto's als inspiratiebron",
         "order": 2
       },
       "components": [
@@ -4678,148 +4486,7 @@
             "fontColor": "#95b9c9",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculptures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Graphics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Fear</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Sketches &amp; drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Independent pictures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Pictures as inspiration</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#7c9aa7"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#7c9aa7"
-            },
-            ".link, .dropdown-item": {
-              "color": "#7c9aa7",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-family": "'Slabo 27px', serif"
-            },
-            ".link": {
-              "font-size": "0.8rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#050607"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#15171b!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#1c1e23"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#7c9aa7",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-2k"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-dsc4667-1400x929.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-4o"
-        }
-      ]
-    },
-    "page16.html": {
-      "settings": {
-        "meta_descr": "Web Creator Description",
-        "title": "2014-2015 Drawings",
-        "order": 10
-      },
-      "components": [
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#0e0e0e",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) Emma Boeyaert",
-          "_anchor": "footer1-2o"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": false,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#1c1e23",
-            "fontSize": "0.8",
-            "fontName": {
-              "name": "Slabo 27px",
-              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "css": "'Slabo 27px', serif"
-            },
-            "fontColor": "#95b9c9",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculptures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Graphics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Fear</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Drawings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Sketches &amp; drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Independent pictures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Pictures as inspiration</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Schetsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Grafiek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Angst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Schetsen en tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Onafhankelijke foto's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Foto's als inspiratiebron</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://emmab17.github.io/en/\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4870,7 +4537,148 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#95b9c9!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2k"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-dsc4667-1400x929.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-4o"
+        }
+      ]
+    },
+    "page16.html": {
+      "settings": {
+        "meta_descr": "Web Creator Description",
+        "title": "2014-2015 Tekeningen",
+        "order": 10
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#0e0e0e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) Emma Boeyaert",
+          "_anchor": "footer1-2o"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#1c1e23",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Slabo 27px",
+              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "css": "'Slabo 27px', serif"
+            },
+            "fontColor": "#95b9c9",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2014-2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">GIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2015-2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\" aria-expanded=\"false\">Schetsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Grafiek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2016-2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Angst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">2017-2018</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">INTRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">Schetsen en tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Onafhankelijke foto's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\" aria-expanded=\"false\">Foto's als inspiratiebron</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://emmab17.github.io/en/\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#95b9c9"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#95b9c9"
+            },
+            ".link, .dropdown-item": {
+              "color": "#95b9c9",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-family": "'Slabo 27px', serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#050607"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#15171b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#1c1e23"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#95b9c9",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#95b9c9!important"
             }
           },
           "logo": {
@@ -4897,7 +4705,7 @@
             "paddingBottom": 1,
             "bgColor": "#060606"
           },
-          "text": "<blockquote>There was no choise in what Emma painted or drew. The secunary education didn't have much room for free thinking. That is why these works are focused on technique.&nbsp;</blockquote>",
+          "text": "<blockquote>Er was geen keuze in wat Emma Boeyaert inhoudelijk schilderde of tekende. De middelbare opleiding had weinig ruimte voor eigen ideeën, buiten de GIP. Dat is waarom de focus in deze werken op techniek ligt.&nbsp;</blockquote>",
           "_tags": [
             "Theme"
           ],

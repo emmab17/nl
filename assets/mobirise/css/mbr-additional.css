@@ -879,10 +879,10 @@ h6,
 }
 #image1-2s DIV {
   text-align: left;
-  color: #0e0e0e;
+  color: #cccccc;
 }
 #image1-2t DIV {
-  color: #000000;
+  color: #cccccc;
 }
 
 #ext_menu-1j .hide-buttons .nav-btn {
@@ -945,7 +945,7 @@ h6,
 }
 #ext_menu-1j .link[aria-expanded="true"],
 #ext_menu-1j .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #95b9c9!important;
 }
 #content2-33 BLOCKQUOTE {
   color: #95b9c9;
@@ -1024,15 +1024,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-1n .navbar-toggler {
-  color: #7c9aa7;
+  color: #95b9c9;
 }
 #ext_menu-1n .close-icon::before,
 #ext_menu-1n .close-icon::after {
-  background-color: #7c9aa7;
+  background-color: #95b9c9;
 }
 #ext_menu-1n .link,
 #ext_menu-1n .dropdown-item {
-  color: #7c9aa7;
+  color: #95b9c9;
   font-family: 'Slabo 27px', serif;
 }
 #ext_menu-1n .link {
@@ -1065,7 +1065,7 @@ h6,
   background: #1c1e23;
 }
 #ext_menu-1n .bg-color.transparent .link {
-  color: #7c9aa7;
+  color: #95b9c9;
   transition: none;
 }
 #ext_menu-1n .bg-color.transparent.opened .link {
@@ -1077,7 +1077,7 @@ h6,
 }
 #ext_menu-1n .link[aria-expanded="true"],
 #ext_menu-1n .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #95b9c9!important;
 }
 #content2-3i BLOCKQUOTE {
   color: #95b9c9;
@@ -1090,15 +1090,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-1r .navbar-toggler {
-  color: #7c9aa7;
+  color: #95b9c9;
 }
 #ext_menu-1r .close-icon::before,
 #ext_menu-1r .close-icon::after {
-  background-color: #7c9aa7;
+  background-color: #95b9c9;
 }
 #ext_menu-1r .link,
 #ext_menu-1r .dropdown-item {
-  color: #7c9aa7;
+  color: #95b9c9;
   font-family: 'Slabo 27px', serif;
 }
 #ext_menu-1r .link {
@@ -1131,7 +1131,7 @@ h6,
   background: #1c1e23;
 }
 #ext_menu-1r .bg-color.transparent .link {
-  color: #7c9aa7;
+  color: #95b9c9;
   transition: none;
 }
 #ext_menu-1r .bg-color.transparent.opened .link {
@@ -1143,7 +1143,7 @@ h6,
 }
 #ext_menu-1r .link[aria-expanded="true"],
 #ext_menu-1r .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #95b9c9!important;
 }
 #content2-3n BLOCKQUOTE {
   color: #95b9c9;
@@ -1156,15 +1156,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-1t .navbar-toggler {
-  color: #7c9aa7;
+  color: #95b9c9;
 }
 #ext_menu-1t .close-icon::before,
 #ext_menu-1t .close-icon::after {
-  background-color: #7c9aa7;
+  background-color: #95b9c9;
 }
 #ext_menu-1t .link,
 #ext_menu-1t .dropdown-item {
-  color: #7c9aa7;
+  color: #95b9c9;
   font-family: 'Slabo 27px', serif;
 }
 #ext_menu-1t .link {
@@ -1197,7 +1197,7 @@ h6,
   background: #1c1e23;
 }
 #ext_menu-1t .bg-color.transparent .link {
-  color: #7c9aa7;
+  color: #95b9c9;
   transition: none;
 }
 #ext_menu-1t .bg-color.transparent.opened .link {
@@ -1209,7 +1209,7 @@ h6,
 }
 #ext_menu-1t .link[aria-expanded="true"],
 #ext_menu-1t .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #95b9c9!important;
 }
 #content2-3y BLOCKQUOTE {
   color: #95b9c9;
@@ -1222,15 +1222,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-1y .navbar-toggler {
-  color: #7c9aa7;
+  color: #95b9c9;
 }
 #ext_menu-1y .close-icon::before,
 #ext_menu-1y .close-icon::after {
-  background-color: #7c9aa7;
+  background-color: #95b9c9;
 }
 #ext_menu-1y .link,
 #ext_menu-1y .dropdown-item {
-  color: #7c9aa7;
+  color: #95b9c9;
   font-family: 'Slabo 27px', serif;
 }
 #ext_menu-1y .link {
@@ -1263,7 +1263,7 @@ h6,
   background: #1c1e23;
 }
 #ext_menu-1y .bg-color.transparent .link {
-  color: #7c9aa7;
+  color: #95b9c9;
   transition: none;
 }
 #ext_menu-1y .bg-color.transparent.opened .link {
@@ -1275,7 +1275,7 @@ h6,
 }
 #ext_menu-1y .link[aria-expanded="true"],
 #ext_menu-1y .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #95b9c9!important;
 }
 #content2-46 BLOCKQUOTE {
   color: #95b9c9;
@@ -1288,15 +1288,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-20 .navbar-toggler {
-  color: #7c9aa7;
+  color: #95b9c9;
 }
 #ext_menu-20 .close-icon::before,
 #ext_menu-20 .close-icon::after {
-  background-color: #7c9aa7;
+  background-color: #95b9c9;
 }
 #ext_menu-20 .link,
 #ext_menu-20 .dropdown-item {
-  color: #7c9aa7;
+  color: #95b9c9;
   font-family: 'Slabo 27px', serif;
 }
 #ext_menu-20 .link {
@@ -1329,7 +1329,7 @@ h6,
   background: #1c1e23;
 }
 #ext_menu-20 .bg-color.transparent .link {
-  color: #7c9aa7;
+  color: #95b9c9;
   transition: none;
 }
 #ext_menu-20 .bg-color.transparent.opened .link {
@@ -1341,7 +1341,7 @@ h6,
 }
 #ext_menu-20 .link[aria-expanded="true"],
 #ext_menu-20 .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #95b9c9!important;
 }
 #content2-4i BLOCKQUOTE {
   color: #ffffff;
@@ -1360,15 +1360,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-22 .navbar-toggler {
-  color: #7c9aa7;
+  color: #95b9c9;
 }
 #ext_menu-22 .close-icon::before,
 #ext_menu-22 .close-icon::after {
-  background-color: #7c9aa7;
+  background-color: #95b9c9;
 }
 #ext_menu-22 .link,
 #ext_menu-22 .dropdown-item {
-  color: #7c9aa7;
+  color: #95b9c9;
   font-family: 'Slabo 27px', serif;
 }
 #ext_menu-22 .link {
@@ -1401,7 +1401,7 @@ h6,
   background: #1c1e23;
 }
 #ext_menu-22 .bg-color.transparent .link {
-  color: #7c9aa7;
+  color: #95b9c9;
   transition: none;
 }
 #ext_menu-22 .bg-color.transparent.opened .link {
@@ -1413,7 +1413,7 @@ h6,
 }
 #ext_menu-22 .link[aria-expanded="true"],
 #ext_menu-22 .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #95b9c9!important;
 }
 
 #ext_menu-2k .hide-buttons .nav-btn {
@@ -1423,15 +1423,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-2k .navbar-toggler {
-  color: #7c9aa7;
+  color: #95b9c9;
 }
 #ext_menu-2k .close-icon::before,
 #ext_menu-2k .close-icon::after {
-  background-color: #7c9aa7;
+  background-color: #95b9c9;
 }
 #ext_menu-2k .link,
 #ext_menu-2k .dropdown-item {
-  color: #7c9aa7;
+  color: #95b9c9;
   font-family: 'Slabo 27px', serif;
 }
 #ext_menu-2k .link {
@@ -1464,7 +1464,7 @@ h6,
   background: #1c1e23;
 }
 #ext_menu-2k .bg-color.transparent .link {
-  color: #7c9aa7;
+  color: #95b9c9;
   transition: none;
 }
 #ext_menu-2k .bg-color.transparent.opened .link {
@@ -1476,7 +1476,7 @@ h6,
 }
 #ext_menu-2k .link[aria-expanded="true"],
 #ext_menu-2k .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #95b9c9!important;
 }
 
 #ext_menu-2p .hide-buttons .nav-btn {
@@ -1539,7 +1539,7 @@ h6,
 }
 #ext_menu-2p .link[aria-expanded="true"],
 #ext_menu-2p .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #95b9c9!important;
 }
 #content2-36 BLOCKQUOTE {
   color: #95b9c9;
